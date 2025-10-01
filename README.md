@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+
+PayPal for support  bvxvj007@gmail.com
+
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
